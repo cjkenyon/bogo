@@ -1,0 +1,5 @@
+Change Footprint: Cannot match pads with new footprint in component :C17 Footprint:CAPC2012M
+Change Footprint: Cannot match pads with new footprint in component :C18 Footprint:CAPC2012M
+Change Footprint: Footprint Not Found RAD-0.3
+Added Member To Class: ClassName=06_Servo_Motor_ICs Member=Component C15 1uF
+Added Member To Class: ClassName=06_Servo_Motor_ICs Member=Component C16 0.1uF

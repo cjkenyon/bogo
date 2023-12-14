@@ -1,0 +1,4 @@
+opencv-python==4.8.1.78
+bleak==0.21.1
+keyboard==0.13.5
+Pillow==10.1.0

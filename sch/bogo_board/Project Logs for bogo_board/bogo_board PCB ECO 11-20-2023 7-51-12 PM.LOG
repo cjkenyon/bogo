@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3.3V Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Change Component Footprint: Designator=C14 Old Footprint= New Footprint=CAP_0805
+Change Footprint: Cannot match pads with new footprint in component :C17 Footprint:CAPC2012M
+Change Footprint: Cannot match pads with new footprint in component :C18 Footprint:CAPC2012M
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3.3V Pin=C14-2

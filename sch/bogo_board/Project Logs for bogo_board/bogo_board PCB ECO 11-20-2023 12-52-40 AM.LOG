@@ -1,0 +1,43 @@
+Add Component: Footprint Not Found CONN_TB006-508-02_CUD
+Add Component: Footprint Not Found CONN_TB006-508-02_CUD
+Added Component: Designator=K1(RELAY6_J102_CRS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "J1021AS512VDC.45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PS1440P02BT_TDK
+Add Component: Footprint Not Found POWERPAD_DDA_TEX-M
+Add Component: Footprint Not Found POWERPAD_DDA_TEX-M
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Added Pin To Net: NetName=PUMP_PWR Pin=K1-1
+Added Pin To Net: NetName=VBAT_POS Pin=K1-2
+Added Pin To Net: NetName=VBAT_POS Pin=K1-3
+Added Pin To Net: NetName=RLY_CL_OUT Pin=K1-5
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Class Member: Failed to add class member : Component J4 TB006-508-02BE
+Add Class Member: Failed to add class member : Component J5 TB006-508-02BE
+Added Member To Class: ClassName=05_Buzz_Pump_LED_Temp_ICs Member=Component K1 J1021AS512VDC.45
+Add Class Member: Failed to add class member : Component U2 PS1440P02BT
+Add Class Member: Failed to add class member : Component U4 DRV8251DDAR
+Add Class Member: Failed to add class member : Component U5 DRV8251DDAR

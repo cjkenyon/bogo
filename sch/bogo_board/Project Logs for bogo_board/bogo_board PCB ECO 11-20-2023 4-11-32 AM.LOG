@@ -1,0 +1,163 @@
+Change Component Footprint: Designator=J4 Old Footprint=CONN_TB006-508-02_CUD New Footprint=PHOENIX2X0.2
+Change Component Footprint: Designator=J5 Old Footprint=CONN_TB006-508-02_CUD New Footprint=PHOENIX2X0.2
+Change Component Comment : Designator=J4 Old Comment=TB006-508-02BE New Comment=MotorA
+Change Component Comment : Designator=J5 Old Comment=TB006-508-02BE New Comment=MotorB
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Change Component Designator: OldDesignator=C18 NewDesignator=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C20
+Change Component Designator: OldDesignator=C20 NewDesignator=C21
+Change Component Designator: OldDesignator=C21 NewDesignator=C22
+Change Component Designator: OldDesignator=C22 NewDesignator=C7
+Change Component Designator: OldDesignator=C308 NewDesignator=C307
+Change Component Designator: OldDesignator=C309 NewDesignator=C308
+Change Component Designator: OldDesignator=D11 NewDesignator=D1
+Change Component Designator: OldDesignator=IN_B1 NewDesignator=IN_B2
+Change Component Designator: OldDesignator=IN_B2 NewDesignator=IN_B1
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=P9 NewDesignator=P8
+Change Component Designator: OldDesignator=R11 NewDesignator=R1
+Change Component Designator: OldDesignator=R12 NewDesignator=R2
+Change Component Designator: OldDesignator=R13 NewDesignator=R3
+Change Component Designator: OldDesignator=R14 NewDesignator=R4
+Change Component Designator: OldDesignator=R15 NewDesignator=R5
+Change Component Designator: OldDesignator=R16 NewDesignator=R6
+Change Component Designator: OldDesignator=R17 NewDesignator=R7
+Change Component Designator: OldDesignator=R18 NewDesignator=R8
+Change Component Designator: OldDesignator=R19 NewDesignator=R9
+Change Component Designator: OldDesignator=R20 NewDesignator=R10
+Change Component Designator: OldDesignator=R21 NewDesignator=R11
+Change Component Designator: OldDesignator=R22 NewDesignator=R12
+Change Component Designator: OldDesignator=R23 NewDesignator=R13
+Change Component Designator: OldDesignator=R24 NewDesignator=R14
+Change Component Designator: OldDesignator=R25 NewDesignator=R15
+Change Component Designator: OldDesignator=R26 NewDesignator=R16
+Change Component Designator: OldDesignator=R27 NewDesignator=R17
+Change Component Designator: OldDesignator=R28 NewDesignator=R18
+Change Component Designator: OldDesignator=R29 NewDesignator=R19
+Change Component Designator: OldDesignator=R30 NewDesignator=R20
+Change Component Designator: OldDesignator=R31 NewDesignator=R21
+Change Component Designator: OldDesignator=R32 NewDesignator=R22
+Change Component Designator: OldDesignator=R33 NewDesignator=R23
+Change Component Designator: OldDesignator=R34 NewDesignator=R24
+Change Component Designator: OldDesignator=R35 NewDesignator=R25
+Change Component Designator: OldDesignator=R36 NewDesignator=R26
+Change Component Designator: OldDesignator=R37 NewDesignator=R27
+Change Component Designator: OldDesignator=R38 NewDesignator=R28
+Change Component Designator: OldDesignator=R39 NewDesignator=R29
+Change Component Designator: OldDesignator=R40 NewDesignator=R30
+Change Component Designator: OldDesignator=R41 NewDesignator=R31
+Change Component Designator: OldDesignator=R42 NewDesignator=R32
+Change Component Designator: OldDesignator=R43 NewDesignator=R33
+Change Component Designator: OldDesignator=R44 NewDesignator=R34
+Change Component Designator: OldDesignator=R45 NewDesignator=R35
+Change Component Designator: OldDesignator=R46 NewDesignator=R36
+Change Component Designator: OldDesignator=R47 NewDesignator=R37
+Change Component Designator: OldDesignator=R48 NewDesignator=R38
+Change Component Designator: OldDesignator=R49 NewDesignator=R39
+Change Component Designator: OldDesignator=R50 NewDesignator=R40
+Change Component Designator: OldDesignator=R51 NewDesignator=R41
+Change Component Designator: OldDesignator=R52 NewDesignator=R42
+Change Component Designator: OldDesignator=R53 NewDesignator=R43
+Change Component Designator: OldDesignator=R54 NewDesignator=R44
+Change Component Designator: OldDesignator=R55 NewDesignator=R45
+Change Component Designator: OldDesignator=R56 NewDesignator=R46
+Change Component Designator: OldDesignator=R57 NewDesignator=R47
+Change Component Designator: OldDesignator=R58 NewDesignator=R48
+Change Component Designator: OldDesignator=R59 NewDesignator=R49
+Change Component Designator: OldDesignator=R60 NewDesignator=R50
+Change Component Designator: OldDesignator=R61 NewDesignator=R51
+Change Component Designator: OldDesignator=R62 NewDesignator=R52
+Change Component Designator: OldDesignator=R63 NewDesignator=R53
+Change Component Designator: OldDesignator=R64 NewDesignator=R54
+Change Component Designator: OldDesignator=R65 NewDesignator=R55
+Change Component Designator: OldDesignator=R66 NewDesignator=R56
+Change Component Designator: OldDesignator=R67 NewDesignator=R57
+Change Component Designator: OldDesignator=R68 NewDesignator=R58
+Change Component Designator: OldDesignator=R69 NewDesignator=R59
+Change Component Designator: OldDesignator=R70 NewDesignator=R60
+Change Component Designator: OldDesignator=R71 NewDesignator=R61
+Change Component Designator: OldDesignator=R72 NewDesignator=R62
+Change Component Designator: OldDesignator=R73 NewDesignator=R63
+Change Component Designator: OldDesignator=R74 NewDesignator=R64
+Change Component Designator: OldDesignator=R75 NewDesignator=R65
+Change Component Designator: OldDesignator=R76 NewDesignator=R66
+Change Component Designator: OldDesignator=R77 NewDesignator=R67
+Change Component Designator: OldDesignator=R78 NewDesignator=R68
+Change Component Designator: OldDesignator=R79 NewDesignator=R69
+Change Component Designator: OldDesignator=R80 NewDesignator=R70
+Change Component Designator: OldDesignator=TP8 NewDesignator=IN_A2
+Change Component Designator: OldDesignator=TP9 NewDesignator=IN_A1
+Change component parameters: Designator = "J4" ("J4"); Footprint = "CONN_TB006-508-02_CUD"; UniqueID = "\XCMNGBTK" ("\XCMNGBTK")
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/709/eng-cd-640456-w1-709680.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/709/eng-cd-640456-w1-709680.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/3118/eng-ds-82056-mta-0608-3118497.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/3118/eng-ds-82056-mta-0608-3118497.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16401/eng-ds-82056-mta-0608-16401289.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16401/eng-ds-82056-mta-0608-16401289.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/25617/0900766b80027008-25617244.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/25617/0900766b80027008-25617244.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14156/04384301-14156820.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14156/04384301-14156820.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/11746/0900766b80eb7fdd-11746365.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/11746/0900766b80eb7fdd-11746365.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/7128/1866390-7128742.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/7128/1866390-7128742.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/16505/eng-ds-82056-mta-0608-16505419.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/16505/eng-ds-82056-mta-0608-16505419.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TB006-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.86, 10=0.472, 25=0.3524, 50=0.3142, 100=0.308, 250=0.27108, 500=0.24644, 1000=0.2218, 5000=0.16635 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "50889"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "102-6191-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "CONN_TB006-508-02_CUD"; UniqueID = "\ZVECPAIX" ("\ZVECPAIX")
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/709/eng-cd-640456-w1-709680.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/709/eng-cd-640456-w1-709680.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/3118/eng-ds-82056-mta-0608-3118497.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/3118/eng-ds-82056-mta-0608-3118497.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16401/eng-ds-82056-mta-0608-16401289.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16401/eng-ds-82056-mta-0608-16401289.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/25617/0900766b80027008-25617244.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/25617/0900766b80027008-25617244.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14156/04384301-14156820.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14156/04384301-14156820.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/11746/0900766b80eb7fdd-11746365.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/11746/0900766b80eb7fdd-11746365.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/7128/1866390-7128742.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/7128/1866390-7128742.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/16505/eng-ds-82056-mta-0608-16505419.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/16505/eng-ds-82056-mta-0608-16505419.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TB006-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.86, 10=0.472, 25=0.3524, 50=0.3142, 100=0.308, 250=0.27108, 500=0.24644, 1000=0.2218, 5000=0.16635 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "50889"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "102-6191-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J6(PHOENIX3X0.2)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TB006-508-03BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.91, 10=0.567, 25=0.4856, 50=0.4364, 100=0.4272, 250=0.3636, 500=0.34542, 1000=0.30906, 5000=0.24179 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "41909"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "102-6192-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=LED_EN0_P10.2 Pin=J6-2
+Added Pin To Net: NetName=LED_EN1_P10.3 Pin=J6-3
+Added Member To Class: ClassName=02_Connectors Member=Component J6 Servo

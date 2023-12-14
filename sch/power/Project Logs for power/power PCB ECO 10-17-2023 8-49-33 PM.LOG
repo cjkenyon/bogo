@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBAT_POS Pin=J201-6
+Removed Pin From Net: NetName=5.0V Pin=J201-7
+Added Pin To Net: NetName=5.0V Pin=J201-6
+Added Pin To Net: NetName=VBAT_POS Pin=J201-7

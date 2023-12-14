@@ -1,0 +1,14 @@
+Comment,Description,Designator,Quantity,Supplier Part Number 1
+
+"C0805C104K5RACTU","CAP CER 0.1UF 50V X7R 0805","C300","1",""
+"C0805C106K8PACTU","CAP CER 10UF 10V X5R 0805","C301, C302, C303","3",""
+"RJHSE-5080","CONN MOD JACK 8P8C R/A UNSHLD","J200, J202, J204","3",""
+"TB006-508-02BE","No Description Available","J201, J203","2",""
+"PJ-102","CONN PWR JACK 2.1X5.5MM HIGH CUR","P200","1",""
+"10K","Res Thick Film 0805 1K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD Automotive T/R, Res Thick Film 0805 10K Ohm 1% 0.125W ±100ppm/°C Molded SMD Paper T/R","R300, R302, R303, R304, R306, R307","6","RMCF0805FT1K00CT-ND, RMCF0805FT10K0CT-ND"
+"1","Res 0.1 Ohm 1% 1W 1206","R301, R305","2","2037-SCRR1206S1-R100FCT-ND"
+"IN_A1","Test Point SMD 1206","TP200, TP202","2",""
+"IN_A2","Test Point SMD 1206","TP201, TP203","2",""
+"GND","Test Point SMD 1206","TP204, TP205, TP300, TP301","4",""
+"VBrush","Test Point SMD 1206","TP206","1",""
+"DRV8251DDAR","No Description Available","U300, U301","2",""

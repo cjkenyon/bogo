@@ -1,0 +1,42 @@
+Add Component: Footprint Not Found CONN_TB006-508-02_CUD
+Add Component: Footprint Not Found CONN_TB006-508-02_CUD
+Add Component: Footprint Not Found PS1440P02BT_TDK
+Added Component: Designator=U4(POWERPAD_DDA_TEX-M)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DRV8251DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U5(POWERPAD_DDA_TEX-M)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DRV8251DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=IN_A2_RES Pin=U4-2
+Added Pin To Net: NetName=IN_A1_RES Pin=U4-3
+Added Pin To Net: NetName=3.3V Pin=U4-4
+Added Pin To Net: NetName=VBAT_POS Pin=U4-5
+Added Pin To Net: NetName=OUT_A1 Pin=U4-6
+Added Pin To Net: NetName=ISEN_A Pin=U4-7
+Added Pin To Net: NetName=OUT_A2 Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=IN_B2_RES Pin=U5-2
+Added Pin To Net: NetName=IN_B1_RES Pin=U5-3
+Added Pin To Net: NetName=3.3V Pin=U5-4
+Added Pin To Net: NetName=VBAT_POS Pin=U5-5
+Added Pin To Net: NetName=OUT_B1 Pin=U5-6
+Added Pin To Net: NetName=ISEN_B Pin=U5-7
+Added Pin To Net: NetName=OUT_B2 Pin=U5-8
+Add Class Member: Failed to add class member : Component J4 TB006-508-02BE
+Add Class Member: Failed to add class member : Component J5 TB006-508-02BE
+Add Class Member: Failed to add class member : Component U2 PS1440P02BT
+Added Member To Class: ClassName=04_Brushed_Motor_ICs Member=Component U4 DRV8251DDAR
+Added Member To Class: ClassName=04_Brushed_Motor_ICs Member=Component U5 DRV8251DDAR

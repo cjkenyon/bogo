@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [bogo_board.PcbDoc]
+   Generated File[bogo_board.GTO]
+   Generated File[bogo_board.GTP]
+   Generated File[bogo_board.GTS]
+   Generated File[bogo_board.GTL]
+   Generated File[bogo_board.GBL]
+   Generated File[bogo_board.GBS]
+   Generated File[bogo_board.GBP]
+   Generated File[bogo_board.GBO]
+   Generated File[bogo_board.GM2]
+   Generated File[bogo_board.GM]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 9:55:45 AM On 11/21/2023

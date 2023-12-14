@@ -1,0 +1,128 @@
+Add Component: Footprint Not Found FP-C0805C-DN-MFG
+Add Component: Footprint Not Found CUI_PJ-102AH
+Add Component: Footprint Not Found CUI_PJ-102AH
+Add Component: Footprint Not Found 61300311121
+Add Component: Footprint Not Found RESC2012M
+Add Component: Footprint Not Found RESC2012M
+Add Component: Footprint Not Found RESC2012M
+Add Component: Footprint Not Found RESC2012M
+Add Component: Footprint Not Found RESC2012M
+Add Component: Footprint Not Found RESC2012M
+Add Component: Footprint Not Found RESC2012M
+Add Component: Footprint Not Found RESC2012M
+Add Component: Footprint Not Found RESC2012M
+Add Component: Footprint Not Found RESC3216M
+Add Component: Footprint Not Found RESC3216M
+Added Component: Designator=R?(RESC2013X70X40NL20T20)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C84.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.008, 25=0.008, 50=0.008, 100=0.008, 250=0.008, 500=0.008, 1000=0.008 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "200593"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "65T8846"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "THICK FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "600ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25 mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PWP0028C_L
+Add Pin To Net: Unknown Pin: Pin C307-1
+Add Pin To Net: Unknown Pin: Pin C307-2
+Add Pin To Net: Unknown Pin: Pin J300-1
+Add Pin To Net: Unknown Pin: Pin J300-2
+Add Pin To Net: Unknown Pin: Pin J300-3
+Add Pin To Net: Unknown Pin: Pin J301-1
+Add Pin To Net: Unknown Pin: Pin J301-2
+Add Pin To Net: Unknown Pin: Pin J301-3
+Add Pin To Net: Unknown Pin: Pin P300-1
+Add Pin To Net: Unknown Pin: Pin P300-2
+Add Pin To Net: Unknown Pin: Pin P300-3
+Add Pin To Net: Unknown Pin: Pin R300-1
+Add Pin To Net: Unknown Pin: Pin R300-2
+Add Pin To Net: Unknown Pin: Pin R301-1
+Add Pin To Net: Unknown Pin: Pin R301-2
+Add Pin To Net: Unknown Pin: Pin R302-1
+Add Pin To Net: Unknown Pin: Pin R302-2
+Add Pin To Net: Unknown Pin: Pin R303-1
+Add Pin To Net: Unknown Pin: Pin R303-2
+Add Pin To Net: Unknown Pin: Pin R304-1
+Add Pin To Net: Unknown Pin: Pin R304-2
+Add Pin To Net: Unknown Pin: Pin R305-1
+Add Pin To Net: Unknown Pin: Pin R305-2
+Add Pin To Net: Unknown Pin: Pin R306-1
+Add Pin To Net: Unknown Pin: Pin R306-2
+Add Pin To Net: Unknown Pin: Pin R307-1
+Add Pin To Net: Unknown Pin: Pin R307-2
+Add Pin To Net: Unknown Pin: Pin R308-1
+Add Pin To Net: Unknown Pin: Pin R308-2
+Add Pin To Net: Unknown Pin: Pin R309-1
+Add Pin To Net: Unknown Pin: Pin R309-2
+Add Pin To Net: Unknown Pin: Pin R310-1
+Add Pin To Net: Unknown Pin: Pin R310-2
+Add Pin To Net: Unknown Pin: Pin U300-1
+Add Pin To Net: Unknown Pin: Pin U300-3
+Add Pin To Net: Unknown Pin: Pin U300-4
+Add Pin To Net: Unknown Pin: Pin U300-5
+Add Pin To Net: Unknown Pin: Pin U300-6
+Add Pin To Net: Unknown Pin: Pin U300-7
+Add Pin To Net: Unknown Pin: Pin U300-8
+Add Pin To Net: Unknown Pin: Pin U300-9
+Add Pin To Net: Unknown Pin: Pin U300-10
+Add Pin To Net: Unknown Pin: Pin U300-11
+Add Pin To Net: Unknown Pin: Pin U300-12
+Add Pin To Net: Unknown Pin: Pin U300-13
+Add Pin To Net: Unknown Pin: Pin U300-14
+Add Pin To Net: Unknown Pin: Pin U300-15
+Add Pin To Net: Unknown Pin: Pin U300-16
+Add Pin To Net: Unknown Pin: Pin U300-17
+Add Pin To Net: Unknown Pin: Pin U300-18
+Add Pin To Net: Unknown Pin: Pin U300-19
+Add Pin To Net: Unknown Pin: Pin U300-20
+Add Pin To Net: Unknown Pin: Pin U300-21
+Add Pin To Net: Unknown Pin: Pin U300-22
+Add Pin To Net: Unknown Pin: Pin U300-23
+Add Pin To Net: Unknown Pin: Pin U300-24
+Add Pin To Net: Unknown Pin: Pin U300-25
+Add Pin To Net: Unknown Pin: Pin U300-26
+Add Pin To Net: Unknown Pin: Pin U300-28

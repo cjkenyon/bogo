@@ -1,0 +1,3 @@
+../mtb_shared/bless/release-v3.60.0/COMPONENT_BLESS_CONTROLLER/COMPONENT_CM4/COMPONENT_SOFTFP/TOOLCHAIN_GCC_ARM/cy_ble_stack_controller.a
+../mtb_shared/bless/release-v3.60.0/COMPONENT_BLESS_CONTROLLER/COMPONENT_CM4/COMPONENT_SOFTFP/TOOLCHAIN_GCC_ARM/cy_ble_stack_manager.a
+../mtb_shared/bless/release-v3.60.0/COMPONENT_BLESS_HOST/COMPONENT_CM4/COMPONENT_SOFTFP/TOOLCHAIN_GCC_ARM/cy_ble_stack_host.a

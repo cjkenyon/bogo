@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Q300 Old Footprint=SOT23-3M New Footprint=SOT-23_M
+Change Component Footprint: Designator=Q301 Old Footprint=SOT23-3M New Footprint=SOT-23_M
+Change Component Designator: OldDesignator=GND2 NewDesignator=TP300

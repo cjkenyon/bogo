@@ -1,0 +1,11 @@
+Change Component Designator: Old Designator=3.3V New Designator=301
+Change Component Designator: Old Designator=5.0V New Designator=300
+Change Component Designator: Old Designator=C308 New Designator=C307
+Change Component Designator: Old Designator=C309 New Designator=C308
+Change Component Designator: Old Designator=GND0 New Designator=GND300
+Change Component Designator: Old Designator=GND1 New Designator=GND301
+Change Component Designator: Old Designator=GND2 New Designator=GND302
+Change Component Designator: Old Designator=GND3 New Designator=GND303
+Change Component Designator: Old Designator=V_EN New Designator=V_EN300
+Change Component Designator: Old Designator=VBAT_A New Designator=VBAT_A300
+Change Component Designator: Old Designator=VBAT_POS New Designator=VBAT_POS300

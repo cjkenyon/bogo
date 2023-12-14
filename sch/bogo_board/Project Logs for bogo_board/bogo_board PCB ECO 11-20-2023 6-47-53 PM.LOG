@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=09_USB_Bridge Member=C7
+Removed Member From Class: ClassName=06_Servo_Motor_ICs Member=C19
+Removed Member From Class: ClassName=02_Connectors Member=J8
+Removed Member From Class: ClassName=06_Servo_Motor_ICs Member=J8
+Removed Member From Class: ClassName=04_Brushed_Motor_ICs Member=R10
+Removed Member From Class: ClassName=04_Brushed_Motor_ICs Member=R11
+Removed Member From Class: ClassName=04_Brushed_Motor_ICs Member=R12
+Removed Member From Class: ClassName=04_Brushed_Motor_ICs Member=R13
+Removed Member From Class: ClassName=04_Brushed_Motor_ICs Member=R14
+Change Footprint: Cannot match pads with new footprint in component :C14 Footprint:CAPC2012M
+Change Footprint: Cannot match pads with new footprint in component :C17 Footprint:CAPC2012M
+Change Footprint: Cannot match pads with new footprint in component :C18 Footprint:CAPC2012M
+Added Member To Class: ClassName=07_MCU Member=Component C8 08055A6R0CAT2A
+Added Member To Class: ClassName=07_MCU Member=Component C10 C0805C106K8PACTU
+Added Member To Class: ClassName=06_Servo_Motor_ICs Member=Component C12 220uF
+Added Member To Class: ClassName=06_Servo_Motor_ICs Member=Component C14 1uF
+Added Member To Class: ClassName=06_Servo_Motor_ICs Member=Component C16 0.1uF
+Added Member To Class: ClassName=06_Servo_Motor_ICs Member=Component C18 0.1uF
+Added Member To Class: ClassName=09_USB_Bridge Member=Component C20 C0805C104K5RACTU
+Added Member To Class: ClassName=09_USB_Bridge Member=Component C22 C0805C104K5RACTU
+Added Member To Class: ClassName=04_Brushed_Motor_ICs Member=Component IN_B2 5019
+Added Member To Class: ClassName=02_Connectors Member=Component J6 Servo
+Added Member To Class: ClassName=06_Servo_Motor_ICs Member=Component J7 Servo Drive
+Added Member To Class: ClassName=05_Buzz_Pump_LED_Temp_ICs Member=Component R15 RC0805FR-0710KL
+Added Member To Class: ClassName=05_Buzz_Pump_LED_Temp_ICs Member=Component R16 10K
+Added Member To Class: ClassName=05_Buzz_Pump_LED_Temp_ICs Member=Component R17 RC0805FR-0710KL
+Added Member To Class: ClassName=05_Buzz_Pump_LED_Temp_ICs Member=Component R18 RC0805FR-0710KL
+Added Member To Class: ClassName=05_Buzz_Pump_LED_Temp_ICs Member=Component R19 RC0805FR-0710KL
+Added Member To Class: ClassName=04_Brushed_Motor_ICs Member=Component R20 10K
+Added Member To Class: ClassName=04_Brushed_Motor_ICs Member=Component R21 10K
+Added Member To Class: ClassName=04_Brushed_Motor_ICs Member=Component R22 ERJ-6GEY0R00V
+Added Member To Class: ClassName=04_Brushed_Motor_ICs Member=Component R23 RC0805FR-0710KL
+Added Member To Class: ClassName=04_Brushed_Motor_ICs Member=Component R24 10K

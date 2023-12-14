@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=200 NewDesignator=3.3V
+Change Component Designator: OldDesignator=201 NewDesignator=12V
+Change Component Designator: OldDesignator=BUZZ300 NewDesignator=BUZZ
+Change Component Designator: OldDesignator=GND200 NewDesignator=GND
+Change Component Designator: OldDesignator=INT200 NewDesignator=INT
+Change Component Designator: OldDesignator=LED200 NewDesignator=LED3.3
+Change Component Designator: OldDesignator=LED201 NewDesignator=LED12
+Change Component Designator: OldDesignator=PUMP_PWR300 NewDesignator=PUMP_PWR
+Change Component Designator: OldDesignator=SCL200 NewDesignator=SCL
+Change Component Designator: OldDesignator=SDA200 NewDesignator=SDA

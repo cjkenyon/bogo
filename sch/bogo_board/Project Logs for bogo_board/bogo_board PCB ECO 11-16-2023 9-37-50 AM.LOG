@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=TP12 NewDesignator=XRES_N
+Add Component: Footprint Not Found CONN_TB006-508-02_CUD
+Add Component: Footprint Not Found CONN_TB006-508-02_CUD
+Add Component: Footprint Not Found RELAY6_J102_CRS
+Add Component: Footprint Not Found PS1440P02BT_TDK
+Add Component: Footprint Not Found POWERPAD_DDA_TEX-M
+Add Component: Footprint Not Found POWERPAD_DDA_TEX-M
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin K1-1
+Add Pin To Net: Unknown Pin: Pin K1-2
+Add Pin To Net: Unknown Pin: Pin K1-3
+Add Pin To Net: Unknown Pin: Pin K1-5
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Class Member: Failed to add class member : Component J4 TB006-508-02BE
+Add Class Member: Failed to add class member : Component J5 TB006-508-02BE
+Add Class Member: Failed to add class member : Component K1 J1021AS512VDC.45
+Add Class Member: Failed to add class member : Component U2 PS1440P02BT
+Add Class Member: Failed to add class member : Component U4 DRV8251DDAR
+Add Class Member: Failed to add class member : Component U5 DRV8251DDAR

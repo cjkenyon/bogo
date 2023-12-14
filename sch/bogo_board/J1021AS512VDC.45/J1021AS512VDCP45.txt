@@ -1,0 +1,92 @@
+# Created by Ultra Librarian 8.3.344 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "RELAY6_J102_CRS")
+Pad (Name "1") (Location 0, 0) (HoleSize 39) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -29.5)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Top)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "2") (Location 0, -400) (HoleSize 39) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -29.5)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Top)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "3") (Location 0, -500) (HoleSize 39) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -29.5)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Top)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "4") (Location 300, -500) (HoleSize 39) (Surface False) (Rotation 180) (ExpandMask 0) (ExpandPaste -29.5)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Top)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "5") (Location 300, -400) (HoleSize 39) (Surface False) (Rotation 180) (ExpandMask 0) (ExpandPaste -29.5)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Top)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "6") (Location 300, 0) (HoleSize 39) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -29.5)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Top)
+PadShape (Size 59, 59) (Shape Rounded) (Layer Bottom)
+EndPad
+Line (Width 6) (Start -68.5, -566) (End -68.5, 66) (Layer Mechanical15) 
+Line (Width 6) (Start -68.5, 66) (End 368.5, 66) (Layer Mechanical15) 
+Line (Width 6) (Start 368.5, 66) (End 368.5, -566) (Layer Mechanical15) 
+Line (Width 6) (Start 368.5, -566) (End -68.5, -566) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-68.5, -566)
+Point (-68.5, 66)
+Point (368.5, 66)
+Point (368.5, -566)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-58.5, -556)
+Point (-58.5, 56)
+Point (358.5, 56)
+Point (358.5, -556)
+EndPolygon
+Line (Width 6) (Start -63.5, -561) (End 363.5, -561) (Layer TopOverlay) 
+Line (Width 6) (Start 363.5, -561) (End 363.5, 61) (Layer TopOverlay) 
+Line (Width 6) (Start 363.5, 61) (End -63.5, 61) (Layer TopOverlay) 
+Line (Width 6) (Start -63.5, 61) (End -63.5, -561) (Layer TopOverlay) 
+Text (Location -12.5, 128.66665649) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "*")
+Line (Width 1) (Start -58.5, -556) (End 358.5, -556) (Layer Mechanical13) 
+Line (Width 1) (Start 358.5, -556) (End 358.5, 56) (Layer Mechanical13) 
+Line (Width 1) (Start 358.5, 56) (End -58.5, 56) (Layer Mechanical13) 
+Line (Width 1) (Start -58.5, 56) (End -58.5, -556) (Layer Mechanical13) 
+Arc (Width 0) (Radius 0) (Location 29.5, 0) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Arc (Width 0) (Radius 12) (Location 150, 56) (StartAngle 180) (EndAngle 360) (Layer Mechanical13) 
+Text (Location -12.5, 16.66665649) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "*")
+Step (Name RELAY6_J102_CRS.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "J1021AS512VDC.45") (PartCount 1) (DesPrefix "K?")
+Pin (Location 300, -200) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, 0) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 300, -400) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "3") (Name Hidden "3") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 700, -400) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "4") (Name Hidden "4") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Pin (Location 700, 0) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "5") (Name Hidden "5") (PinSwap 0) (PartSwap 0) (PinSeq 5) (Part 1)
+Pin (Location 700, -200) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "6") (Name Hidden "6") (PinSwap 0) (PartSwap 0) (PinSeq 6) (Part 1)
+Line (Width 5) (Start 300, -200) (End 700, -200) (Part 1)
+Line (Width 5) (Start 300, -400) (End 400, -400) (Part 1)
+Line (Width 5) (Start 500, -200) (End 500, -325) (Part 1)
+Line (Width 5) (Start 300, 0) (End 400, 0) (Part 1)
+Line (Width 5) (Start 500, -325) (End 575, -425) (Part 1)
+Line (Width 5) (Start 700, 0) (End 600, 0) (Part 1)
+Line (Width 5) (Start 400, 25) (End 400, -25) (Part 1)
+Line (Width 5) (Start 400, -25) (End 600, -25) (Part 1)
+Line (Width 5) (Start 600, 25) (End 600, -25) (Part 1)
+Line (Width 5) (Start 600, 25) (End 400, 25) (Part 1)
+Rectangle (Width 5) (Start 300, -500) (End 700, 100) (Part 1)
+Parameter (Name "Type") (Location 550, 225) (Height 82) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2023 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "CIT Relay & Switch") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "J1021AS512VDC.45") (Part 1)
+Parameter (Name "RefDes") (Location 550, 325) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "J1021AS512VDC.45") (Part 1)
+Footprint (Name "RELAY6_J102_CRS")
+EndComponent
+EndComponents

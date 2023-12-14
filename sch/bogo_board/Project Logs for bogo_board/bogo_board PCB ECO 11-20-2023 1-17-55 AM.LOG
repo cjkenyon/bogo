@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=P8-1
+Removed Pin From Net: NetName=LED_EN0_P10.2 Pin=P8-2
+Removed Pin From Net: NetName=LED_EN1_P10.3 Pin=P8-3
+Removed Member From Class: ClassName=02_Connectors Member=P8
+Added Component: Designator=J4(CONN_TB006-508-02_CUD)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB006-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J5(CONN_TB006-508-02_CUD)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB006-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CUI_TB006-508-03BE
+Added Pin To Net: NetName=OUT_A1 Pin=J4-1
+Added Pin To Net: NetName=OUT_A2 Pin=J4-2
+Added Pin To Net: NetName=OUT_B1 Pin=J5-1
+Added Pin To Net: NetName=OUT_B2 Pin=J5-2
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J8-3
+Added Member To Class: ClassName=02_Connectors Member=Component J4 TB006-508-02BE
+Added Member To Class: ClassName=02_Connectors Member=Component J5 TB006-508-02BE
+Add Class Member: Failed to add class member : Component J8 TB006-508-03BE
